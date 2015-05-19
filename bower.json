@@ -26,8 +26,8 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#0.8-preview",
-    "marked": "~0.3.2",
+    "polymer": "Polymer/polymer#^0.9.0",
+    "marked": "~0.3.3",
     "prism": "prismjs/prism#gh-pages"
   }
 }
